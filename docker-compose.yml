@@ -10,7 +10,6 @@ services:
     environment:
       RELAYS: ""
       EXTRA_OPTS: ""
-    image: "mev-boost.mev-boost-goerli.dnp.dappnode.eth:0.1.0"
     restart: unless-stopped
 volumes:
   data: {}

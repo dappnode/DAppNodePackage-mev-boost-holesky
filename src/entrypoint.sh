@@ -12,7 +12,7 @@ if [ -z "$RELAYS" ]; then
 fi
 
 exec /app/mev-boost -addr 0.0.0.0:18550 \
-  -goerli \
+  -holesky \
   -relay-check \
   -relays ${RELAYS} \
   ${EXTRA_OPTS}
