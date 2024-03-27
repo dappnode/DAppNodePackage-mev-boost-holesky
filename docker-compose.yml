@@ -4,7 +4,7 @@ services:
     build:
       context: src
       args:
-        UPSTREAM_VERSION: 1.7a1
+        UPSTREAM_VERSION: 1.7
     volumes:
       - "data:/var/lib/mev-boost"
     environment:
