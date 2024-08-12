@@ -17,7 +17,7 @@
     "docs": "https://github.com/flashbots/mev-boost/wiki"
   },
   "bugs": {
-    "url": "https://github.com/Nabsku/DAppNodePackage-mev-boost/issues"
+    "url": "https://github.com/dappnode/DAppNodePackage-mev-boost-holesky/issues"
   },
   "repository": {
     "type": "git",
